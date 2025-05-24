@@ -1,9 +1,5 @@
-# networ-scanner
-A simple network scanner similar to Nmap with Python
+
 # 🔎 Python Network Scanner
-
-Bu layihə, Python istifadə edərək sadə bir Nmap bənzəri network scanner aləti hazırlamaq məqsədilə yaradılmışdır. Layihə komanda şəklində işlənir və hər bir üzv fərqli funksional hissəyə cavabdehdir.
-
 ---
 
  Layihənin Məqsədi
